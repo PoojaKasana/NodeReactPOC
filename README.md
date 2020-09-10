@@ -1,5 +1,6 @@
 # NodeReactPOC
-Setup Architecture
+Setup Architecture: 
+
 We follow a complete MVC setup architecture where the NodeJS will serve as the Controller and Model.
 And React will serve as the View. React will be installed in the folder called as Client. Internally, React will have it's own controller which is at componenet level.
 
